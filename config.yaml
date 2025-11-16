@@ -1,0 +1,11 @@
+environments:
+  - ETJO-TEST
+  - ETJO-DEV12
+  - ETJO-DEV3
+
+dimensions:
+  - Account AG COA
+  - Account AG COA FR
+  - BSV AG COA
+
+api_url: https://your-api-url.com/epm/rest/v1
