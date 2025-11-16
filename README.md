@@ -110,3 +110,6 @@ All logs are written to `dimension_export.log` in the **current working director
 4. Check `dimension_export.log` for results
 
 > 💡 Pro Tip: Add `--verbose` flag to PowerShell script for more detailed logs
+
+## MIT License 2025
+_The MIT License is one of the most simple and permissive free software licenses, allowing anyone to use, copy, modify, distribute, and even sell the software for free. It grants these permissions with almost no restrictions, giving developers maximum flexibility for their own projects. The only requirement is that the original copyright notice and the license text itself must be included with all copies or substantial portions of the software._
